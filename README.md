@@ -8,9 +8,14 @@ _This repository is about installing and setting up a Kali Linux environment on 
 * Unzip the Kali Linux Virtual Machine file and import it inside the Oracle Virtualbox. To import the file, click the add or export button then click the blue box file or the one that ends with .vbox.
 * Click start in your Oracle VirtualBox in Machines section then wait for it to boot up. The username and password for this are the same, use "kali" for it.
 * Once installed, go to the terminal emulator and run the following command prompt to update the tools:
-  'sudo apt update && sudo apt upgrade'
+```bash
+sudo apt update && sudo apt upgrade
+```
 * Lastly, run the following command to test out.
-  'cat /etc/os-release && ip addr'
+  
+```bash
+cat /etc/os-release && ip addr
+  ```
 
 
 > Note: These files are in a compressed file and has a huge file size when unzipped so make sure to have a sufficient storage. 

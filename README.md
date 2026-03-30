@@ -1,6 +1,6 @@
 # Setting Up A Cybersecurity Lab
 
-_This repository is about installing and setting up a Kali Linux environment on a personal computer. The virtual machine will be used as a Cybersecurity Lab particularly dedicated for AWS PUP Cloud Department of Networking and Cybersecurity as an assignment._
+_This repository is about installing and setting up a Kali Linux environment on a personal computer. The virtual machine will be used as a Cybersecurity Lab particularly dedicated for AWS PUP Cloud Department of Networking and Security as an assignment._
 
 * Ensure that the Oracle VM VirtualBox is already installed (not to be confused with Kali Linux VirtualBox installer). In this, the Oracle VirtualBox serves as a platform (Hypervisor) that allows you to run multiple Virtual Machines. If it's not yet already done, just go to oracle vm virtualbox website or click this link to get redirected into this site [Oracle VM VirtualBox Installer](https://www.oracle.com/asean/virtualization/technologies/vm/downloads/virtualbox-downloads.html). Download an installer here based on your operating system, in my case, I downloaded the one that is compatible with Windows.
 * Click the .exe or the executable file of the Oracle VirtualBox to set it up. Click the default settings in the Setup Wizard then it will start installing the software. When it's already done, proceed into downloading a Kali Linux Machine in the computer.
